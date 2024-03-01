@@ -1,3 +1,5 @@
+package Class2;
+
 public class Class2Q2 {
     public static void main(String args[])
     {
